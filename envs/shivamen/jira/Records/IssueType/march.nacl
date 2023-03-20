@@ -1,0 +1,6 @@
+jira.IssueType march {
+  description = "dsa"
+  name = "march"
+  untranslatedName = "march"
+  hierarchyLevel = 0
+}

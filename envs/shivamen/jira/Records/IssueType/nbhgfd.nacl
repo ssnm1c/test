@@ -1,0 +1,6 @@
+jira.IssueType nbhgfd {
+  description = "vcfdx"
+  name = "nbhgfd"
+  untranslatedName = "nbhgfd"
+  hierarchyLevel = 0
+}

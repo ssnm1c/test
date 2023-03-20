@@ -1,0 +1,5 @@
+jira.Status lost {
+  name = "Lost"
+  statusCategory = jira.StatusCategory.instance.Done
+  description = ""
+}

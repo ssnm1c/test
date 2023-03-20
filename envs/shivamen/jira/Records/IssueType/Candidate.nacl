@@ -1,0 +1,6 @@
+jira.IssueType Candidate {
+  description = "A person being recruited."
+  name = "Candidate"
+  untranslatedName = "Candidate"
+  hierarchyLevel = 0
+}

@@ -1,0 +1,4 @@
+jira.ProjectCategory software_pr_category@s {
+  description = "for software purpose"
+  name = "software pr category"
+}

@@ -1,0 +1,8 @@
+jira.IssueTypeScheme SS__Process_Management_Issue_Type_Scheme__9_@fssssssjk {
+  name = "SS: Process Management Issue Type Scheme (9)"
+  defaultIssueTypeId = jira.IssueType.instance.Task
+  issueTypeIds = [
+    jira.IssueType.instance.Task,
+    jira.IssueType.instance.Sub_task@b,
+  ]
+}

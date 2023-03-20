@@ -1,0 +1,5 @@
+jira.Status contacted {
+  name = "Contacted"
+  statusCategory = jira.StatusCategory.instance.In_Progress@s
+  description = ""
+}

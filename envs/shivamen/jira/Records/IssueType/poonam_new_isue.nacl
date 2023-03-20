@@ -1,0 +1,6 @@
+jira.IssueType poonam_new_isue@s {
+  description = "my descriptions is this"
+  name = "poonam new isue"
+  untranslatedName = "poonam new isue"
+  hierarchyLevel = 0
+}

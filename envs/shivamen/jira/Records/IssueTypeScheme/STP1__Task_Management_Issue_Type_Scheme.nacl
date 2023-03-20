@@ -1,0 +1,8 @@
+jira.IssueTypeScheme STP1__Task_Management_Issue_Type_Scheme@fsssss {
+  name = "STP1: Task Management Issue Type Scheme"
+  defaultIssueTypeId = jira.IssueType.instance.Task
+  issueTypeIds = [
+    jira.IssueType.instance.Task,
+    jira.IssueType.instance.Sub_task@b,
+  ]
+}

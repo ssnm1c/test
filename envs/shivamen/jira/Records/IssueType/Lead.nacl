@@ -1,0 +1,6 @@
+jira.IssueType Lead {
+  description = "A sales lead to be pursued."
+  name = "Lead"
+  untranslatedName = "Lead"
+  hierarchyLevel = 0
+}
